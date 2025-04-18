@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @k404ded
-- 👀 I’m interested in Coding, Ai, Data Science 
+- 👀 I’m interested in Coding, Ai, Data Science ,Ml
 - 🌱 I’m currently learning Machine learning, deep learning, Nlp, power bi 
 - 💞️ I’m looking to collaborate on projects that include model training, data analytics, making mini projects 
 - 📫 How to reach me Mail:- bhavekimaya2910@gmail.com , Linked in:- Kimaya Bhave , instagram:- whoiskimaya
